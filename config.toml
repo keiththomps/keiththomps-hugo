@@ -2,9 +2,8 @@ languageCode = "en-us"
 title = "Keiththomps"
 baseurl = "http://keiththomps.com/"
 description = "Learn &amp; Grow"
-currentTheme = "aglaus"
 
-googleAnalytics = ""
+googleAnalytics = "UA-91413800-1"
 
 [params]
 dateformat = "Jan 2, 2006"
